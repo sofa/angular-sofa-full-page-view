@@ -1,0 +1,18 @@
+{
+    "name": "angular-sofa-full-page-view",
+    "version": "0.1.0",
+    "homepage": "http://www.sofa.io",
+    "authors": [
+        "Pascal Precht <pascal@couchcommerce.com>"
+    ],
+    "description": "Sofa Web SDK Angular Full Page View component",
+    "main": "dist/sofaFullPageView.js",
+    "keywords": [
+        "sofa",
+        "sofa.io",
+        "web",
+        "sdk",
+        "directive"
+    ],
+    "license": "GPL"
+}
